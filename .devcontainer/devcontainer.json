@@ -1,5 +1,5 @@
 {
-	"name": "R Data Science Environmnet",
+	"name": "R Data Science Environment",
 	"build": {
 		"dockerfile": "Dockerfile",
 		// Update VARIANT to pick a specific R version: 4, 4.1, 4.0
@@ -19,11 +19,10 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		// Add Jupyter, R and Python vscode extensions
-		"ikuyadeu.r",
 		"REditorSupport.r",
 		"rdebugger.r-debugger",
 		"ms-toolsai.jupyter",
-		"ms-toolsai.jupyter-renderers"
+		"ms-toolsai.jupyter-renderers",
 		"ms-python.python",
 		"ms-python.vscode-pylance",
 		"vsls-contrib.codetour"
