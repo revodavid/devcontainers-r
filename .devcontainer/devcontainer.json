@@ -20,8 +20,10 @@
 	"extensions": [
 		// Add Jupyter, R and Python vscode extensions
 		"ikuyadeu.r",
+		"REditorSupport.r",
 		"rdebugger.r-debugger",
 		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers"
 		"ms-python.python",
 		"ms-python.vscode-pylance",
 		"vsls-contrib.codetour"
