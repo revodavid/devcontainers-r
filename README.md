@@ -48,6 +48,14 @@ Now, browse to the file [intro-regression-R-tidymodels/solution/Challenge-regres
 * [Microsoft Workshop Library](https://github.com/microsoft/workshop-library
 ) - The source of the workshop "Introduction to regression models by using R and Tidymodels" included in this presentation
 
+# Image Credits
+
+Images used in presentation slides:
+* [File:A frustrated and depressed man holds his head in his hand.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_frustrated_and_depressed_man_holds_his_head_in_his_hand.jpg)
+* [File:Confused Felipe.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Confused_Felipe.jpg)
+* [File:Woman looking depressed.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Woman_looking_depressed.jpg)
+* [File:Angry woman.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Angry_woman.jpg)
+
 # Feedback
 
 If you have any comments or suggestions about this presentation, please leave an issue in this repository.
