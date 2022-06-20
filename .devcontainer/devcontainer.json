@@ -25,7 +25,8 @@
 		"ms-toolsai.jupyter-renderers",
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"vsls-contrib.codetour"
+		"vsls-contrib.codetour",
+		"GitHub.copilot"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
