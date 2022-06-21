@@ -4,8 +4,8 @@ This is the repository supporting the presentation "Easy R Tutorials with Dev Co
 
 * Presenter: [David Smith](https://www.linkedin.com/in/dmsmith/), Cloud Advocate at Microsoft
 * Presented at: [UseR!2022, June 21, 2022](https://user2022.r-project.org/program/talks/#session-10-building-the-r-community-1) 
-* Presentation slides: PDF
-* Presentation recording: (pending)
+* Presentation slides: [PDF](./EasyRTutorialsUseR2022.pdf)
+* Presentation recording: [UseR!2022](https://www.accelevents.com/e/user2022/portal/schedule/260730) (Starting at 47:45)
 
 You can recreate the demos in the talk using the steps outlined below.
 
